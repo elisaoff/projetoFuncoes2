@@ -5,4 +5,4 @@ export function aleatorio (lista){
     return lista[posicao];
 }
 
-export const nome = aleatori
+export const nome = aleatorio(nomes)
